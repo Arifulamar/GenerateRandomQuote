@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(243, 239, 239);
+}
+#quote-box {
+  background-color: rgb(151, 184, 167);
+  width: 500px;
+  height: 200px;
+  position: relative;
+  border: 5px solid rgb(57, 68, 60);
+  margin: auto;
+  text-align: center;
+}
+#quote-text {
+  color: white;
+  margin: 30px;
+  position: relative;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+}
+#author {
+  margin: 0px;
+  text-align: center;
+  font-size: small;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#new-quote {
+  margin: 10px;
+  height: 30px;
+  width: 150px;
+}
+#tweet-quote {
+  margin: 0px;
+  position: relative;
+}
